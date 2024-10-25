@@ -76,7 +76,7 @@ header {
 }
 
 .hero {
-    background-image: url('hero-background.jpg'); /* Add the background image */
+    background-image: url("hero-background.jpg"); /* Add the background image */
     background-size: cover; /* Cover the entire section */
     background-position: center; /* Center the background image */
     height: 100vh; /* Full viewport height */
